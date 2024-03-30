@@ -44,7 +44,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/dileep4passion/dileep4passion/output/snake.svg" alt="Snake animation" />
-
-###
