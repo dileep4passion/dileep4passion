@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dileep4passion&locale=en&mode=daily&theme=radical&hide_border=true" height="146" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileep4passion&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileep4passion&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="146" alt="languages graph"  />
 </div>
 
 ###
